@@ -1,2 +1,2 @@
 # random_projects
-this repository contain my random projects
+This repository contain my random projects.
